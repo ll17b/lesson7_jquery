@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 25th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Layton Lewis)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Customizing the brownie recipe)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ll17b.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the fadeIn() to show a hidden element
+2. How to display colors on an element when clicked
+3. Learned how to display animation on the page with methods
+
 
